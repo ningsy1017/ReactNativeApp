@@ -1,0 +1,17 @@
+{
+  "name": "AwesomeProject",
+  "displayName": "AwesomeProject",
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "AwesomeProject",
+    "icon": "",
+    "version": "1.0.0",
+    "slug": "test1",
+    "ios": {
+      "bundleIdentifier": "com.daiji.www"
+    },
+    "android": {
+      "package": "com.daiji.www"
+    }
+  }
+}
